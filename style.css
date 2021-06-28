@@ -1,0 +1,32 @@
+body
+{
+    background-color: aqua;
+}
+span 
+{
+    color: white;
+    font-size: 16px;
+}
+.bob3
+{
+    text-align: center;
+    background-color: lightblue;
+    border-radius: 20px;
+    padding: 10px;
+}
+.text_images_and_result
+{
+    background-color: #fff8f8;
+    padding: 30px;
+    border-radius: 20px;
+    width: 50%;
+    display: inline-block;
+    box-shadow: 5px 5px 18px teal;
+}
+.container
+{
+    text-align: left;
+}
+img {
+    width: 250px;
+}
